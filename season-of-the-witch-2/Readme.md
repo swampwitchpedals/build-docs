@@ -17,7 +17,7 @@ When your signal combines with the Control Signal, the results can be otherworld
 
 ## Pedal Controls	
 
-![Blend control](assets/blend.png)
+<img align="left" width="100" height="100" src="assets/blend.png">
 Controls the amount of delayed signal in the output. Completely on will be nothing but delayed signal, completely off will be nothing but clean signal.
 
 ![Delay control](assets/delay.png)
