@@ -84,28 +84,24 @@ Interestingly, even within the variation there is still variation. For example, 
 Let's face it. There are so many controls on this pedal, and each one opens a world of new sounds. It's normal to be a little confused or overwhelmed. I highly recommend picking a single setting and changing it over its range to get a sense of how flexible this pedal is. 
 
 ### Ambient Swells
-<div>
-<img height="200" src="assets/setting1.png" margin="5px">
-</div>
 
-https://github.com/user-attachments/assets/0cc27bfe-052a-4407-a7e3-5d39c4ea74cd
+
+https://github.com/user-attachments/assets/8f6ad4f9-e63e-4a1d-96d0-88b2fd1421e5
+
+
 
 ### Harmonious Pitch shifter
-<div>
-<img  height="200" src="assets/setting2.png" margin="5px">
-</div>
 
-https://github.com/user-attachments/assets/3c264116-3987-42f2-ae3e-02851ed06c10
+
+
+https://github.com/user-attachments/assets/fd7eab2d-361f-4339-acae-c9d1c9e3a842
 
 
 ### Haunting Space Tremolo
-<div>
-<img  height="200" src="assets/setting3.png" margin="5px">
-</div>
 
 
-https://github.com/user-attachments/assets/07c1b4b6-2fa6-4757-9599-4e576a026018
 
+https://github.com/user-attachments/assets/9fd3e434-4d70-4813-9c7a-95f8ef6d567c
 
 
 
