@@ -31,22 +31,19 @@ Internally, there is a trimmer for the chaos avaiable in the `Feedback` knob. Tu
 
 These two settings work with all forms of modulation: internal LFO, external TRS Expression pedal, or 0-5V CV generator.
 
-![Delay Depth control](assets/depth.png)
-Controls the amount of modulation on the delay time - the maximum swing of the control signal.
-
-![Feedback Depth control](assets/depth.png)
-Controls the amount of modulation on the feedback - the maximum swing of the control signal.
+| | |
+| :--- | :--- |
+| <img align="left" height="75" src="assets/depth.png" margin="5px"> | Controls the amount of modulation on the delay time - the maximum swing of the control signal. |
+| <img align="left" height="75" src="assets/depth.png" margin="5px"> | Controls the amount of modulation on the feedback - the maximum swing of the control signal. |
 
 ### LFO-only Controls
 
 These two settings only affect the internal LFO.
 
-![Rate Control](assets/rate.png)
-Controls the rate (frequency) of the LFO. The SwampLFO provides rates from as slow as 20 s up to 40 ms (38 BPM to 1500 BPM, or 0.05 Hz to 25.6Hz).
-
-### Waveform
-Controls the waveform of the LFO, covering: Sine, Square, Triangle, Ramp Down, Ramp Up, Sine Fourth Harmonic, Random Slopes, Random Steps.
-![Waveforms Sine, Square, Triangle, Ramp Down, Ramp Up, Sine Fourth Harmonic, Random Slopes, Random Steps](assets/waveforms.png)
+| | |
+| :--- | :--- |
+| <img align="left" height="75" src="assets/rate.png" margin="5px"> | Controls the rate (frequency) of the LFO. The SwampLFO provides rates from as slow as 20 s up to 40 ms (38 BPM to 1500 BPM, or 0.05 Hz to 25.6Hz). |
+| <img align="left" height="150" src="assets/waveforms.png" margin="5px"> | Controls the waveform of the LFO, covering: Sine, Square, Triangle, Ramp Down, Ramp Up, Sine Fourth Harmonic, Random Slopes, Random Steps. |
 
 > **NOTE**: The `Rate` and `Waveform`  options only affect the LFO control, not the expression or CV control signals.
 
