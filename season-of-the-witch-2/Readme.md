@@ -1,13 +1,13 @@
 # Season of the Witch: Season 2
 
-<img align="left" height="250" src="assets/title.png" margin="10px">
+<img align="left" height="200" src="assets/title.png" margin="10px">
 The `Season of the Witch` is, at its core, a modulating digital delay pedal. The modulation can be accomplished via an LFO circuit, which uses the new, in-house SwampLFO; a TRS-capable expression pedal; or a 0-5V TS CV signal. The digital delay is driven by the [PT2399](https://www.electrosmash.com/pt2399-analysis), a common short-range delay chip. But the `Season of the Witch` is also so much more than a modulated delay: it is a space-time manipulator, a seasick harmony machine, an ambient movie soundtrack generator, and a shoegaze tone factory all in one. 
 <br />
 <br />
 The pedal includes standard delay controls: dry/wet `Blend`, amount of `Feedback` in the signal, and the `Delay` time.
-
+<br />
 It also includes modulation controls for the Control Signal, which will be discussed in depth later: `Rate`, `Waveform` selection, and both `Depth` controls for fine-tuned wave control (_"Control Signal"_ is any of the three types of available control: internal LFO, external TRS expression pedal, or 0-5V CV generator).
-
+<br />
 When your musical input combines with the Control Signal, the results can be otherworldly. Subtle variation of the Control Siganl produces warm, wavering sounds, much like a chorus pedal. Less-than-subtle variation produces wild, pitch-shifting, potentially-arpeggiated noises: changing the variation from gentle to almost unrecognizable.
 
 ---
