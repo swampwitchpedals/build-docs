@@ -83,10 +83,13 @@ Interestingly, even within the variation there is still variation. For example, 
 
 Let's face it. There are so many controls on this pedal, and each one opens a world of new sounds. It's normal to be a little confused or overwhelmed. I highly recommend picking a single setting and changing it over its range to get a sense of how flexible this pedal is. 
 
-### Useful Setting 1
-### Useful Setting 2
-### Useful Setting 3
-### Useful Setting 4
+### Ambient Swells
+<div>
+<img align="left" height="200" src="assets/setting1.png" margin="5px">
+</div>
+
+### Harmonious Pitch shifter
+### Haunting Space Tremolo
 
 
 
