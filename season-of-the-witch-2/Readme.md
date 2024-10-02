@@ -49,8 +49,9 @@ These two settings only affect the internal LFO.
 > **NOTE**: The `Rate` and `Waveform`  options only affect the LFO control, not the expression or CV control signals.
 
 ### Secondary Footswitch
-![Tap Tempo control](assets/tap.png)
-The footswitch on the right side of the Season of the Witch is a multi-function switch. It controls both tap tempo of the LFO, as well as the Hold to Self-Oscillate function. 
+| | |
+| :--- | :--- |
+| <img align="left" height="75" src="assets/tap.png" margin="5px"> | The footswitch on the right side of the Season of the Witch is a multi-function switch. It controls both tap tempo of the LFO, as well as the Hold to Self-Oscillate function. | 
 
 #### Tap Tempo
 The secondary footswitch is the tap-tempo switch for the LFO. Tap twice to enter the tempo of the LFO. _Note, this tap/interval does NOT correspond to the delay-time._
