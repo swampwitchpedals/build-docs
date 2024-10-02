@@ -85,23 +85,16 @@ Let's face it. There are so many controls on this pedal, and each one opens a wo
 
 ### Ambient Swells
 
-
-https://github.com/user-attachments/assets/8f6ad4f9-e63e-4a1d-96d0-88b2fd1421e5
-
+https://github.com/user-attachments/assets/fa4ed3d1-db7e-45b8-a903-6f93ec64aacf
 
 
 ### Harmonious Pitch shifter
 
-
-
-https://github.com/user-attachments/assets/fd7eab2d-361f-4339-acae-c9d1c9e3a842
-
+https://github.com/user-attachments/assets/65f106ee-c4b6-49f4-9dc2-f7a1c3b06bb4
 
 ### Haunting Space Tremolo
 
-
-
-https://github.com/user-attachments/assets/9fd3e434-4d70-4813-9c7a-95f8ef6d567c
+https://github.com/user-attachments/assets/a3a47a49-bcb1-4c64-9ed5-433914b7fb01
 
 
 
