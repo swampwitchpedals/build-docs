@@ -17,10 +17,8 @@ When your signal combines with the Control Signal, the results can be otherworld
 
 ## Pedal Controls	
 
-<div>
-<img style="float: left" width="200" height="150" src="assets/blend.png">
-Controls the amount of delayed signal in the output. Completely on will be nothing but delayed signal, completely off will be nothing but clean signal.
-</div>
+<img style="float: left" width="200" height="150" src="assets/blend.png"
+Controls the amount of delayed signal in the output. Completely on will be nothing but delayed signal, completely off will be nothing but clean signal. >
 
 <div>
 <img align="left" width="200" height="150" src="assets/delay.png">
