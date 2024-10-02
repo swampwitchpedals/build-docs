@@ -18,7 +18,7 @@ When your signal combines with the Control Signal, the results can be otherworld
 ## Pedal Controls	
 
 | | |
-| :--- | :---: |
+| :--- | :--- |
 | <img align="left" height="75" src="assets/blend.png" margin="5px"> | Controls the amount of delayed signal in the output. Completely on will be nothing but delayed signal, completely off will be nothing but clean signal. |
 | <img align="left" height="75" src="assets/delay.png"> | Controls the delay time. The range of usable delay times is approximately 35ms to ~500ms. Longer delay times are possible, but signal degradation is guaranteed beyond this range. Of course, if you were looking for normal-signal delay pedal, you probably wouldn't be here! |
 | <img align="left" height="75" src="assets/feedback.png"> | Controls the amount of feedback (number of repeats) in the signal. The pedal is capable of self-oscillation at higher settings (depending on the `Chaos` setting). |
