@@ -85,17 +85,17 @@ Let's face it. There are so many controls on this pedal, and each one opens a wo
 
 ### Ambient Swells
 <div>
-<img align="left" height="200" src="assets/setting1.png" margin="5px">
+<img height="200" src="assets/setting1.png" margin="5px">
 </div>
 
 ### Harmonious Pitch shifter
 <div>
-<img align="left" height="200" src="assets/setting2.png" margin="5px">
+<img  height="200" src="assets/setting2.png" margin="5px">
 </div>
 
 ### Haunting Space Tremolo
 <div>
-<img align="left" height="200" src="assets/setting3.png" margin="5px">
+<img  height="200" src="assets/setting3.png" margin="5px">
 </div>
 
 
