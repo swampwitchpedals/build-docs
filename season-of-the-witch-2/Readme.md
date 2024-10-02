@@ -19,8 +19,7 @@ When your signal combines with the Control Signal, the results can be otherworld
 
 | | |
 | :--- | :---: |
-| <img align="left" width="250" height="100" src="assets/blend.png" margin="5px"> |
-Controls the amount of delayed signal in the output. Completely on will be nothing but delayed signal, completely off will be nothing but clean signal. |
+| <img align="left" width="250" height="100" src="assets/blend.png" margin="5px"> | Controls the amount of delayed signal in the output. Completely on will be nothing but delayed signal, completely off will be nothing but clean signal. |
 
 
 <img align="left" width="250" height="100" src="assets/delay.png">
