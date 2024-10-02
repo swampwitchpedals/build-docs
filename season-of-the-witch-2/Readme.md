@@ -34,7 +34,6 @@ Controls the amount of feedback (number of repeats) in the signal. The pedal is 
 #### Chaos
 Internally, there is a trimmer for the chaos avaiable in the `Feedback` knob. Turn it up to allow for easier self-oscillation, turn it down to avoid it altogether.
 
----
 
 ## Control-Signal controls
 
@@ -46,7 +45,6 @@ Controls the amount of modulation on the delay time - the maximum swing of the c
 ![Feedback Depth control](assets/depth.png)
 Controls the amount of modulation on the feedback - the maximum swing of the control signal.
 
----
 ### LFO-only Controls
 
 These two settings only affect the internal LFO.
