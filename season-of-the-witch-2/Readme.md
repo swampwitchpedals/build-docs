@@ -6,7 +6,9 @@ The `Season of the Witch` is, at its core, a modulating digital delay pedal. The
 <br />
 The pedal includes standard delay controls: dry/wet `Blend`, amount of `Feedback` in the signal, and the `Delay` time.
 <br />
+<br />
 It also includes modulation controls for the Control Signal, which will be discussed in depth later: `Rate`, `Waveform` selection, and both `Depth` controls for fine-tuned wave control (_"Control Signal"_ is any of the three types of available control: internal LFO, external TRS expression pedal, or 0-5V CV generator).
+<br />
 <br />
 When your musical input combines with the Control Signal, the results can be otherworldly. Subtle variation of the Control Siganl produces warm, wavering sounds, much like a chorus pedal. Less-than-subtle variation produces wild, pitch-shifting, potentially-arpeggiated noises: changing the variation from gentle to almost unrecognizable.
 
