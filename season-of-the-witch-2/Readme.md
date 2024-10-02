@@ -88,15 +88,23 @@ Let's face it. There are so many controls on this pedal, and each one opens a wo
 <img height="200" src="assets/setting1.png" margin="5px">
 </div>
 
+https://github.com/user-attachments/assets/0cc27bfe-052a-4407-a7e3-5d39c4ea74cd
+
 ### Harmonious Pitch shifter
 <div>
 <img  height="200" src="assets/setting2.png" margin="5px">
 </div>
 
+https://github.com/user-attachments/assets/3c264116-3987-42f2-ae3e-02851ed06c10
+
+
 ### Haunting Space Tremolo
 <div>
 <img  height="200" src="assets/setting3.png" margin="5px">
 </div>
+
+
+https://github.com/user-attachments/assets/07c1b4b6-2fa6-4757-9599-4e576a026018
 
 
 
