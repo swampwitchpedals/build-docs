@@ -17,10 +17,10 @@ When your signal combines with the Control Signal, the results can be otherworld
 
 ## Pedal Controls	
 
-<p>
-<img align="left" width="200" height="150" src="assets/blend.png">
+<div>
+<img style="float: left; margin: 5px" width="200" height="150" src="assets/blend.png">
 Controls the amount of delayed signal in the output. Completely on will be nothing but delayed signal, completely off will be nothing but clean signal.
-<br>
+</div>
 
 <img align="left" width="200" height="150" src="assets/delay.png">
 Controls the delay time. The range of usable delay times is approximately 35ms to ~500ms. Longer delay times are possible, but signal degradation is guaranteed beyond this range. Of course, if you were looking for normal-signal delay pedal, you probably wouldn't be here! 
