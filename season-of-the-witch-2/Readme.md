@@ -23,12 +23,12 @@ Controls the amount of delayed signal in the output. Completely on will be nothi
 </p>
 
 <p>
-<img width="200" height="150" src="assets/delay.png">
+<img align="left" width="200" height="150" src="assets/delay.png">
 Controls the delay time. The range of usable delay times is approximately 35ms to ~500ms. Longer delay times are possible, but signal degradation is guaranteed beyond this range. Of course, if you were looking for normal-signal delay pedal, you probably wouldn't be here! 
 </p>
 
 <p>
-<img width="200" height="150" src="assets/feedback.png">
+<img align="left" width="200" height="150" src="assets/feedback.png">
 Controls the amount of feedback (number of repeats) in the signal. The pedal is capable of self-oscillation at higher settings (depending on the `Chaos` setting).
 </p>
 
