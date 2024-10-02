@@ -17,15 +17,12 @@ When your signal combines with the Control Signal, the results can be otherworld
 
 ## Pedal Controls	
 
-### Blend
 ![Blend control](assets/blend.png)
 Controls the amount of delayed signal in the output. Completely on will be nothing but delayed signal, completely off will be nothing but clean signal.
 
-### Delay
 ![Delay control](assets/delay.png)
 Controls the delay time. The range of usable delay times is approximately 35ms to ~500ms. Longer delay times are possible, but signal degradation is guaranteed beyond this range. Of course, if you were looking for normal-signal delay pedal, you probably wouldn't be here! 
 
-### Feedback
 ![Feedback control](assets/feedback.png)
 Controls the amount of feedback (number of repeats) in the signal. The pedal is capable of self-oscillation at higher settings (depending on the `Chaos` setting).
 
@@ -38,11 +35,9 @@ Internally, there is a trimmer for the chaos avaiable in the `Feedback` knob. Tu
 
 These two settings work with all forms of modulation: internal LFO, external TRS Expression pedal, or 0-5V CV generator.
 
-### Depth (delay)
 ![Delay Depth control](assets/depth.png)
 Controls the amount of modulation on the delay time - the maximum swing of the control signal.
 
-### Depth (feedback)
 ![Feedback Depth control](assets/depth.png)
 Controls the amount of modulation on the feedback - the maximum swing of the control signal.
 
@@ -51,7 +46,7 @@ Controls the amount of modulation on the feedback - the maximum swing of the con
 
 These two settings only affect the internal LFO.
 
-### Rate
+![Rate Control](assets/rate.png)
 Controls the rate (frequency) of the LFO. The SwampLFO provides rates from as slow as 20 s up to 40 ms (38 BPM to 1500 BPM, or 0.05 Hz to 25.6Hz).
 
 ### Waveform
