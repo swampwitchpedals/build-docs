@@ -7,7 +7,7 @@ The long awaited <b>Season 2</b> is here! It's smaller, better, harder, and fast
 The pedal includes standard delay controls: dry/wet <code>Blend</code>, amount of <code>Feedback</code> in the signal, and the <code>Delay</code> time.
 <br />
 <br />
-It also includes modulation controls for the Control Signal, which will be discussed in depth later: </code>Rate</code>, </code>Waveform</code> selection, and both </code>Depth</code> controls for fine-tuned wave control (<i>"Control Signal"</i> is any of the three types of available control: internal LFO, external TRS expression pedal, or 0-5V CV generator).
+It also includes modulation controls for the Control Signal: </code>Rate</code>, </code>Waveform</code> selection, and two independent </code>Depth</code> controls for fine-tuned wave control (<i>"Control Signal"</i> is any of the three types of available control: internal LFO, external TRS expression pedal, or 0-5V CV generator).
 <br />
 <br />
 When your musical input combines with the Control Signal, the results can be otherworldly. Subtle variation of the Control Siganl produces warm, wavering sounds, much like a chorus pedal. Less-than-subtle variation produces wild, pitch-shifting, potentially-arpeggiated noises: changing the variation from gentle to almost unrecognizable.
